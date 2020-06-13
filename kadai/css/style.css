@@ -1,0 +1,39 @@
+.main{
+    margin: 0 auto;
+    width: 600px;
+}
+
+.header{
+    text-align: center;
+}
+
+.pre_header{
+    text-align: center;
+}
+
+.jumbotron{
+    border: 1px solid rgb(73, 71, 71);
+    border-radius: 10px;
+    padding: 30px;
+    background-color:#66FF99;
+}
+
+.textbox{
+    margin-left: 130px;
+}
+
+.textbox1{
+    margin-left: 24px;
+    margin-top: 30px;
+}
+
+.text0{
+    display: flex;
+}
+
+.reserve{
+    margin-top: 25px;
+}
+a register{
+    margin-top: 25px;
+}
